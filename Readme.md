@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Lena Smirnova](https://up.htmlacademy.ru/javascript/28/user/1783917).
-* Наставник: `Неизвестно`.
+* Наставник: [Михаил Карямин](https://htmlacademy.ru/profile/id959581).
 
 ---
 
